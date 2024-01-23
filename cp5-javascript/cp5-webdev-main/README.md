@@ -13,6 +13,3 @@ EQUIPE: NEW TECH
 550260 - Pedro Moura Barros
 550161 - Eduardo Osorio Filho
 
-DEPLOY:
-
-Nao consegui efetuar o deploy
